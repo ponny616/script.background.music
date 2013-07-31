@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+    <!-- German Strings-->
+    <!-- Title/Credit strings -->
+    <string id="32000">Hintergrund Musik</string>
+
+    <!-- General settings -->
+	<string id="32100">General</string>
+	<string id="32101">Aktiviere Hintergrund Musik</string>
+    <string id="32102">Partymodus</string>
+	<string id="32103">Datei/Playliste</string>
+	<string id="32104">Zufall</string>
+	<string id="32105">Repeat</string>
+	<string id="32106">Aus</string>
+	<string id="32107">Alle</string>
+	<string id="32108">One</string>
+	
+	<!-- Volume Settings -->
+	<string id="32200">Lautstärke Einstellung</string>
+	<string id="32201">Musik Lautstärke</string>
+	<string id="32202">Video Lautstärke</string>
+	
+	<!-- Volume Fade Settings -->
+	<string id="32300">Zeit zum Überblenden (in Sekunden)</string>
+	<string id="32301">Musik</string>
+	<string id="32302">Video</string>
+</strings>

@@ -2,4 +2,4 @@ backgroundmusic
 ===============
 
 XBMC Plugin: Playing music in background
-Fades in Music with a defined speed and volume every time nothing is playing.
+Whenever your XBMC Player has nothing to play the Script starts some music in the background. It also can smoothly fade into music after the film ends.

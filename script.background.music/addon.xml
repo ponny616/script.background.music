@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="script.background.music" name="Background Music" version="1.0.0" provider-name="withstu">
+    <requires>
+        <import addon="xbmc.python" version="1.4"/>
+    </requires>
+	<extension point="xbmc.service"
+             library="addon.py" start="[startup]">
+  </extension>
+    <extension point="xbmc.addon.metadata">
+        <platform>all</platform>
+        <summary>Playing music in the background</summary>
+        <disclaimer>This work is licensed under Apache License Version 2.0, January 2004 http://www.apache.org/licenses/</disclaimer>
+        <description>Whenever your XBMC Player has nothing to play the Script starts some music in the background. It also can smoothly fade into music after the film ends.</description>
+    </extension>
+</addon>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+	<category label="32100">
+	    <setting type="lsep" label="32100" />
+		<setting id="enable_script" type="bool" label="32101" default="true" />
+		<setting id="partymode" type="bool" label="32102" default="true" />
+		<setting id="source_file" type="audio" visible="eq(-1,false)" source="music" label="32103" default="" />
+		<setting id="random" type="bool" visible="eq(-2,false)" label="32104" default="false" />
+		<setting id="repeat" type="enum" visible="eq(-3,false)" lvalues="32106|32107|32108" label="32105" default="0" />
+	</category>
+	
+	<category label="32200">
+		<setting type="lsep" label="32200" />
+		<setting id="volume_music" label="32201" type="slider" option="int" default="70" range="0,100"/>
+		<setting id="volume_video" label="32202" type="slider" option="int" default="100" range="0,100"/>
+		
+		<setting type="lsep" label="32300" />
+		<setting id="fade_music" label="32301" type="slider" option="int" default="5" range="0,10"/>
+		<setting id="fade_video" label="32302" type="slider" option="int" default="2" range="0,10"/>
+	</category>
+</settings>
