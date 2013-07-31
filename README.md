@@ -1,4 +1,4 @@
-backgroundmusic
+script.background.music
 ===============
 
 XBMC Plugin: Playing music in background
